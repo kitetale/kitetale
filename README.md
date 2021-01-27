@@ -1,4 +1,8 @@
 ### Hi there 👋
+#### I'm Ashley Kim, or @kitetale online.
+#### My primary interests are art & code; Hope to learn more & do more!
+
+
 
 <!--
 **kitetale/kitetale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
