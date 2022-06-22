@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I'm Ashley Kim, or @kitetale online.
+#### I'm Ashley, or @kitetale online.
 #### My primary interests are art & code; Hope to learn more & do more!
 
 
